@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: David Ulriksen
+2. Student ID: 2270761
+3. Email: ulrik101@mail.chapman.edu
+4. Class: 298-02
 5. Assignment: numbers 
 
 ## Application Purpose
