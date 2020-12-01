@@ -10,7 +10,7 @@ do
     then
         break
     else
-        if (( $count % 2 == 0 ))
+        if (( count % 2 == 0 ))
         then
             echo $count "Even"
         else
